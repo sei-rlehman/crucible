@@ -1,4 +1,4 @@
 ---
-template: overrides/home.html
+template: material/overrides/home.html
 title: Crucible Simulation Framework
 ---
