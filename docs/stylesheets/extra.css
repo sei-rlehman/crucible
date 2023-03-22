@@ -28,7 +28,7 @@
 }
 
 * {
-    --md-primary-fg-color: #6D6E71;
+    --md-primary-fg-color: #CC002B;
     --md-primary-fg-color--light: #6D6E71;
     --md-primary-fg-color--dark:  #CC002B;
     --md-typeset-color:   var(--md-default-fg-color);
